@@ -1,0 +1,2 @@
+# ann_class_jiqixuexi
+基于ANN分类乳腺癌数据集，此项目仅用于本次机器学习大作业
